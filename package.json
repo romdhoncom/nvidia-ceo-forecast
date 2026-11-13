@@ -1,0 +1,6 @@
+{
+  "name": "nvidia-ceo-forecast",
+  "private": true,
+  "type": "module",
+  "description": "polymarket-nvidia-ceo-forecast-01 entry: node main.ts"
+}
